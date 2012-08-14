@@ -25,3 +25,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#All big data files
+data/train.csv
+data/test.csv
